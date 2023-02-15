@@ -1,0 +1,6 @@
+export {Navbar} from "./Navbar"
+export {ContactForm} from "./ContactForm"
+export {ProductList} from "./ProductList"
+export {Error}  from "./Error"
+export {Background} from "./Background"
+export {Boton} from "./Boton"
