@@ -7,7 +7,9 @@ const App = () => {
   return (
     <div className="App">
       <Navbar/>
+
       <Background>
+        
         <Routes>
           <Route path='/' element={<ProductList/>}/>
           <Route path="/home" element={<ProductList/>}/>
